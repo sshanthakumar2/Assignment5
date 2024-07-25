@@ -96,8 +96,8 @@
     "course": 5
   },
   {
-    "studentNum": 9,
-    "firstName": "Henri",
+    "studentNum": "9",
+    "firstName": "Henry",
     "lastName": "Rikard",
     "email": "hrikard8@mySeneca.ca",
     "addressStreet": "267 Ryan Trail",
@@ -3178,5 +3178,17 @@
     "TA": true,
     "status": "Part Time",
     "course": 5
+  },
+  {
+    "studentNum": 266,
+    "firstName": "jim",
+    "lastName": "cameron",
+    "email": "jcameron7@myseneca.ca",
+    "addressStreet": "78 sharbot st",
+    "addressCity": "Toronto",
+    "addressProvince": "On",
+    "TA": false,
+    "status": "Full Time",
+    "course": 3
   }
 ]
