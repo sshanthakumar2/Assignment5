@@ -3202,5 +3202,17 @@
     "TA": true,
     "status": "Full Time",
     "course": 1
+  },
+  {
+    "studentNum": "268",
+    "firstName": "kennadyen",
+    "lastName": "kelvin",
+    "email": "kkelvin3@myseneca.ca",
+    "addressStreet": "18 hyenes st",
+    "addressCity": "Toronto",
+    "addressProvince": "On",
+    "TA": true,
+    "status": "Full Time",
+    "course": 1
   }
 ]
