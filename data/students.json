@@ -3190,5 +3190,17 @@
     "TA": false,
     "status": "Full Time",
     "course": 3
+  },
+  {
+    "studentNum": "267",
+    "firstName": "Rahul",
+    "lastName": "Jameson",
+    "email": "rjames7@myseneca.ca",
+    "addressStreet": "16 markham st",
+    "addressCity": "Toronto",
+    "addressProvince": "On",
+    "TA": true,
+    "status": "Full Time",
+    "course": 1
   }
 ]
